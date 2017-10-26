@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  start_datetime: 2017-10-26 20:51:52
+  end_datetime: 2017-10-26 20:51:52
+  movie: one
+  auditorium: one
+
+two:
+  start_datetime: 2017-10-26 20:51:52
+  end_datetime: 2017-10-26 20:51:52
+  movie: two
+  auditorium: two
